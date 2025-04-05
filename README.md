@@ -22,7 +22,6 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 # Links do projeto:
 
--   [Documentação (esse documento)](github.com/marcoandre/pi-modelo)
 -   Backend: [Repositório](https://github.com/VetGoDev7/VetGo-Backend.git) 
 -   Frontend: [Repositório](https://github.com/VetGoDev7/VetGo-Frontend.git) 
 -   Figma: [linkfigma]()
