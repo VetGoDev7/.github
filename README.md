@@ -22,10 +22,10 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 # Links do projeto:
 
--   Backend: [Repositório](https://github.com/VetGoDev7/VetGo-Backend.git) 
--   Frontend: [Repositório](https://github.com/VetGoDev7/VetGo-Frontend.git) 
--   Figma: [linkfigma]()
--   Docs: [Repositório](https://github.com/VetGoDev7/.github.git)
+-   Backend: [VetGo-Backend](https://github.com/VetGoDev7/VetGo-Backend.git) 
+-   Frontend: [VetGo-Frontend](https://github.com/VetGoDev7/VetGo-Frontend.git) 
+-   Figma: [VetGO-Figma]()
+-   Docs: [VetGo-Docs](https://github.com/VetGoDev7/.github.git)
 
 
 # 1. Desenvolvimento
@@ -36,7 +36,7 @@ O sistema escolhido pela equipe será voltado para a área da medicina veteriná
 
 # 2. Situação Problema
 
-- A VetGo é uma pequena startup em desenvolvimento que busca atuar no ramo da medicina veterinária, oferecendo uma solução digital para conectar tutores de animais a clínicas e médicos veterinários de forma prática e eficiente. A ideia partiu através de uma observação da equipe na dificuldade comum no cotidiano de tutores: encontrar profissionais disponíveis e especializados conforme a necessidade de cada animal.
+- A VetGo é um sistema que busca atuar no ramo da medicina veterinária, oferecendo uma solução digital para conectar tutores de animais a clínicas e médicos veterinários de forma prática e eficiente. A ideia partiu através de uma observação da equipe na dificuldade comum no cotidiano de tutores: encontrar profissionais disponíveis e especializados conforme a necessidade de cada animal.
 
 - Atualmente, os tutores que precisam de atendimento veterinário enfrentam dificuldades para encontrar profissionais especializados conforme o tipo de animal e a localização. A busca é feita, em sua maioria, por redes sociais ou indicações, o que torna o processo demorado e pouco eficiente. Por outro lado, muitos veterinários autônomos ou pequenas clínicas ainda não possuem um sistema digital para divulgar seus serviços, o que limita sua visibilidade.
 
