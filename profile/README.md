@@ -51,4 +51,23 @@ Alguns pontos importantes a se destacar são:
 - Permitir que os clientes (tutores) registrem seus animais com suas características principais, como porte e espécie, e visualizem médicos disponíveis compatíveis com o perfil do animal e a região desejada.
 
 - Organizar as informações de forma clara e acessível, de modo que o tutor consiga encontrar rapidamente os profissionais adequados para seu animal, com base nos filtros de localização e especialização.
+
+# 4. Regras de negócio
+
+RN001: Apenas médicos veterinários cadastrados podem aparecer como resultados nas buscas feitas por clientes (tutores).
+
+RN002: Cada médico veterinário deve obrigatoriamente informar sua especialização (animais de porte grande, pequeno ou ambos) e sua localização no momento do cadastro.        
+
+RN003: Um tutor pode cadastrar múltiplos animais em sua conta, desde que cada pet tenha seus próprios dados preenchidos.
+
+RN004: Um animal só poderá ser associado a um tutor por vez.
+
+RN005: Quando não houver profissionais compatíveis com o tipo de animal e a localização selecionados, o sistema deverá informar claramente ao usuário que não há resultados disponíveis no momento.
+
+RN006: Veterinários devem ser responsáveis por manter atualizados os dados de localização e especialização. Dados desatualizados podem impedir a exibição nos resultados.
+
+RN007: Cada usuário (tutor ou veterinário) deve possuir um login único baseado em e-mail para acesso ao sistema.
+
+RN008: O tutor deve ser maior de idade.
+
   
