@@ -70,4 +70,8 @@ Alguns pontos importantes a se destacar são:
 
 - **RN008 - Restrição de idade:** O tutor deve ser maior de idade.
 
+# Modelagem de Dados
+
+![modelagem-vetgo](img/modelagembanco.jpeg)
+
   
