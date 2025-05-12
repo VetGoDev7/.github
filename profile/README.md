@@ -70,6 +70,22 @@ Alguns pontos importantes a se destacar são:
 
 - **RN008 - Restrição de idade:** O tutor deve ser maior de idade.
 
+
+# Requisitos Funcionais:
+
+
+- **RF001** - O sistema deve manter cadastro do usuário.
+- **RF002** -  O sistema deve permitir o cadastro de médicos com informações como especialização.
+- **RF003** - O sistema deve permitir login de usuário.
+- **RF004** - O sistema deve permitir login de clínicas.
+- **RF005** - O sistema deve permitir a localização das clínicas.
+- **RF006** -O sistema deve exibir o contato dos veterinários disponíveis após a filtragem feita pelo cliente.
+- **RF007** -O sistema deve permitir as características dos animais do usuário.
+- **RF008** - O sistema deve permitir que o veterinário edite suas informações de perfil.
+- **RF009:** - O sistema deve organizar as  informações de forma acessível para o tutor consiga encontrar rapidamente os profissionais adequados para seu animal
+
+
+
 # Modelagem de Dados
 
 ![modelagem-vetgo](img/modelagembanco.jpeg)
