@@ -21,10 +21,9 @@ Professor: [Marco André Mendes](github.com/marcoandre)
 
 # Links do projeto:
 
--   Backend: [VetGo-Backend](https://github.com/VetGoDev7/VetGo-Backend.git) 
--   Frontend: [VetGo-Frontend](https://github.com/VetGoDev7/VetGo-Frontend.git)
--   [Vercel](https://vet-go-frontend-ft967ixx1-gabrielimartas-projects.vercel.app)
--   [Render](https://vetgo-backend.onrender.com)
+-   Backend: [VetGo-Backend](https://github.com/VetGoDev7/VetGo-Backend.git) | [Render](https://vetgo-backend.onrender.com)
+-   Frontend: [VetGo-Frontend](https://github.com/VetGoDev7/VetGo-Frontend.git) | [Vercel](https://vet-go-frontend-ft967ixx1-gabrielimartas-projects.vercel.app)
+  
 -   Figma: [VetGO-Figma](https://www.figma.com/design/4HrIaF1HcX1gVBJ93KZihL/VetGo?node-id=0-1&t=HmxWiTJKUazFVIeo-1)
 -   Docs: [VetGo-Docs](https://github.com/VetGoDev7/.github.git)
 
